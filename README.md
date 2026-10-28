@@ -44,6 +44,7 @@ I enjoy learning new technologies, solving problems, and bringing ideas to life 
 ## 🔗 Links
 
 - **GitHub:** https://github.com/JanayLS
+- **Resume:** https://janayls.github.io/JanaysResumeWebsite/
 
 ---
 
